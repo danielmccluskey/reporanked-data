@@ -1,12 +1,108 @@
-
 {
   "1": [
     {
-      "Enemy - Gnome Director": 1,
-      "Enemy - Gnome": 15
+      "Enemy - Ceiling Eye": 1
     },
     {
-      "Enemy - Ceiling Eye": 10
+      "Enemy - Thin Man": 1
+    },
+    {
+      "Enemy - Gnome Director": 1,
+      "Enemy - Gnome": 4
+    },
+    {
+      "Enemy - Duck": 1
+    },
+    {
+      "Enemy - Slow Mouth": 1
     }
-  ] 
+  ],
+  "2": [
+    {
+      "Enemy - Valuable Thrower": 1
+    },
+    {
+      "Enemy - Animal": 1
+    },
+    {
+      "Enemy - Upscream": 1
+    },
+    {
+      "Enemy - Hidden": 1
+    },
+    {
+      "Enemy - Tumbler": 1
+    },
+    {
+      "Enemy - Bowtie": 1
+    },
+    {
+      "Enemy - Floater": 1
+    },
+    {
+      "Enemy - Bang Director": 1,
+      "Enemy - Bang": 3
+    }
+  ],
+  "3": [
+    {
+      "Enemy - Head": 1
+    },
+    {
+      "Enemy - Robe": 1
+    },
+    {
+      "Enemy - Hunter": 1
+    },
+    {
+      "Enemy - Runner": 1
+    },
+    {
+      "Enemy - Beamer": 1
+    },
+    {
+      "Enemy - Slow Walker": 1
+    },
+    {
+      "Enemy - Animal": 3
+    },
+    {
+      "Enemy - Bowtie": 3
+    },
+    {
+      "Enemy - Floater": 3
+    },
+    {
+      "Enemy - Hidden": 2
+    },
+    {
+      "Enemy - Tumbler": 3
+    },
+    {
+      "Enemy - Upscream": 3
+    },
+    {
+      "Enemy - Valuable Thrower": 3
+    },
+    {
+      "Enemy - Ceiling Eye": 4
+    },
+    {
+      "Enemy - Duck": 4
+    },
+    {
+      "Enemy - Slow Mouth": 4
+    },
+    {
+      "Enemy - Thin Man": 4
+    },
+    {
+      "Enemy - Bang Director": 1,
+      "Enemy - Bang": 6
+    },
+    {
+      "Enemy - Gnome Director": 1,
+      "Enemy - Gnome": 10
+    }
+  ]
 }
