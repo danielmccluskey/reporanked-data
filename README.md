@@ -6,8 +6,6 @@ Data Combinations for RepoRanked to allow others to contribute things such as en
 This file contains the predefined enemy combinations used in **REPORanked** to ensure fairness and reduce RNG variance during gameplay.
 
 ### Format
-***as of writing this, only difficulty 1 is used at the moment***
-
 The data is structured as a JSON object in the following format:
 ```json
 {
@@ -30,9 +28,10 @@ The data is structured as a JSON object in the following format:
   "4": []
 }
 ```
-- **Top-level keys (`"1"`, `"2"`, etc.)** represent difficulty levels, the server chooses these based on ELO of both players.
+- **Top-level keys (`"1"`, `"2"`, etc.)** represent difficulty levels of the enemies.
 - Each value is a **list of possible enemy combinations** for that difficulty.
 - Each combination is a dictionary of **enemy names and their counts**.
+- The counts are of each enemy difficulty type are chosen based on the level you are on and the counts in `difficultyAmounts.json`
 
 ### Purpose
 
