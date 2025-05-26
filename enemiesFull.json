@@ -1,0 +1,472 @@
+{
+  "1": [
+    {
+      "Enemies": [
+        "Enemy - Ceiling Eye"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Thin Man"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Gnome Director",
+        "Enemy - Gnome",
+        "Enemy - Gnome",
+        "Enemy - Gnome",
+        "Enemy - Gnome"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Duck"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Slow Mouth"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    }
+  ],
+  "2": [
+    {
+      "Enemies": [
+        "Enemy - Valuable Thrower"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "None",
+        "Chance": 0.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Animal"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Upscream"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Hidden"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Tumbler"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Bowtie"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Floater"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Bang Director",
+        "Enemy - Bang",
+        "Enemy - Bang",
+        "Enemy - Bang"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    }
+  ],
+  "3": [
+    {
+      "Enemies": [
+        "Enemy - Head"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Robe"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Hunter"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Runner"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Beamer"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Slow Walker"
+      ],
+      "LevelsCompletedCondition": false,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 10,
+      "RarityPreset": {
+        "Name": "Rarity - Very Common",
+        "Chance": 100.0
+      },
+      "RunsPlayed": 0
+    },
+    {
+      "Enemies": [
+        "Enemy - Animal",
+        "Enemy - Animal",
+        "Enemy - Animal"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Bowtie",
+        "Enemy - Bowtie",
+        "Enemy - Bowtie"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Floater",
+        "Enemy - Floater",
+        "Enemy - Floater"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Hidden",
+        "Enemy - Hidden"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Tumbler",
+        "Enemy - Tumbler",
+        "Enemy - Tumbler"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Upscream",
+        "Enemy - Upscream",
+        "Enemy - Upscream"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Valuable Thrower",
+        "Enemy - Valuable Thrower",
+        "Enemy - Valuable Thrower"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Ceiling Eye",
+        "Enemy - Ceiling Eye",
+        "Enemy - Ceiling Eye",
+        "Enemy - Ceiling Eye"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Duck",
+        "Enemy - Duck",
+        "Enemy - Duck",
+        "Enemy - Duck"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Slow Mouth",
+        "Enemy - Slow Mouth",
+        "Enemy - Slow Mouth",
+        "Enemy - Slow Mouth"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Thin Man",
+        "Enemy - Thin Man",
+        "Enemy - Thin Man",
+        "Enemy - Thin Man"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Bang Director",
+        "Enemy - Bang",
+        "Enemy - Bang",
+        "Enemy - Bang",
+        "Enemy - Bang",
+        "Enemy - Bang",
+        "Enemy - Bang"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    },
+    {
+      "Enemies": [
+        "Enemy - Gnome Director",
+        "Enemy - Gnome",
+        "Enemy - Gnome",
+        "Enemy - Gnome",
+        "Enemy - Gnome",
+        "Enemy - Gnome",
+        "Enemy - Gnome",
+        "Enemy - Gnome",
+        "Enemy - Gnome",
+        "Enemy - Gnome",
+        "Enemy - Gnome"
+      ],
+      "LevelsCompletedCondition": true,
+      "LevelsCompletedMin": 0,
+      "LevelsCompletedMax": 2,
+      "RarityPreset": {
+        "Name": "Rarity - Very Rare",
+        "Chance": 60.0
+      },
+      "RunsPlayed": 5
+    }
+  ]
+}
